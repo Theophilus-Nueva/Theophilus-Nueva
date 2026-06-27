@@ -36,10 +36,10 @@ Consider this profile my digital playground—a space where I build, test, and r
 ### Live Demo Projects
 
 **Student Scheduling System**  
-[![Student Scheduling System](./NeuroNook_1.png)](https://studentschedulingsystem-frontend-production.up.railway.app/)
+[![Student Scheduling System](./Assets/NeuroNook_1.png)](https://studentschedulingsystem-frontend-production.up.railway.app/)
 
 **NeuroNook**  
-[![NeuroNook](./NeuroNook_1.png)](https://neuronook.appwrite.network/)
+[![NeuroNook](./Assets/NeuroNook_1.png)](https://neuronook.appwrite.network/)
 
 ---
 ---
