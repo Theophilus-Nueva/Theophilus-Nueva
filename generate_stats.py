@@ -61,7 +61,7 @@ icon_map = {
 # 4. Generate the SVG 
 svg_content = '<svg width="350" height="230" viewBox="0 0 350 230" fill="none" xmlns="http://www.w3.org/2000/svg">\n'
 svg_content += '    <rect width="350" height="230" fill="#0D1117" rx="10" stroke="#30363D" stroke-width="1"/>\n'
-svg_content += '    <text x="25" y="35" fill="#FFFFFF" font-family="Arial" font-size="16" font-weight="bold">Custom Top Languages</text>\n'
+svg_content += '    <text x="25" y="35" fill="#FFFFFF" font-family="Arial" font-size="16" font-weight="bold">Top Languages</text>\n'
 
 y_pos = 70
 for name, info in sorted_langs:
