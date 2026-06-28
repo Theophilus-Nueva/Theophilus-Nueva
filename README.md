@@ -1,6 +1,17 @@
 # Theophilus T. Nueva
-**`I am a Web Developer and a student `**
 
+<h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=FFFFFF&vCenter=true&width=85&lines=I+am+a">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=24292E&vCenter=true&width=85&lines=I+am+a">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=FFFFFF&vCenter=true&width=85&lines=I+am+a" alt="I am a" align="middle" />
+  </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=500&color=FFFFFF&vCenter=true&width=250&lines=Web+Developer.;Student.;Tech+Enthusiast.">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=500&color=24292E&vCenter=true&width=250&lines=Web+Developer.;Student.;Tech+Enthusiast.">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=500&color=FFFFFF&vCenter=true&width=250&lines=Web+Developer.;Student.;Tech+Enthusiast." alt="Typing Animation" align="middle" />
+    </picture>
+</h3>
 
 Consider this profile my digital playground—a space where I build, test, and refine software. My focus is on creating functional, full-stack systems using React, FastAPI, and robust database architectures to solve actual problems and streamline operations.
 
