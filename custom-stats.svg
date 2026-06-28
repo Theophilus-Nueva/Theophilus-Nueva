@@ -1,0 +1,19 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="200" fill="#0D1117" rx="10"/>
+    <text x="20" y="30" fill="#C9D1D9" font-family="Arial" font-size="16" font-weight="bold">Custom Top Languages</text>
+
+    <circle cx="25" cy="56" r="5" fill="#f1e05a"/>
+    <text x="40" y="60" fill="#C9D1D9" font-family="Arial" font-size="14">JavaScript - 42.9%</text>
+    
+    <circle cx="25" cy="81" r="5" fill="#178600"/>
+    <text x="40" y="85" fill="#C9D1D9" font-family="Arial" font-size="14">C# - 33.7%</text>
+    
+    <circle cx="25" cy="106" r="5" fill="#663399"/>
+    <text x="40" y="110" fill="#C9D1D9" font-family="Arial" font-size="14">CSS - 15.8%</text>
+    
+    <circle cx="25" cy="131" r="5" fill="#3572A5"/>
+    <text x="40" y="135" fill="#C9D1D9" font-family="Arial" font-size="14">Python - 7.1%</text>
+    
+    <circle cx="25" cy="156" r="5" fill="#e34c26"/>
+    <text x="40" y="160" fill="#C9D1D9" font-family="Arial" font-size="14">HTML - 0.4%</text>
+    </svg>
