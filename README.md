@@ -60,10 +60,5 @@
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Theophilus-Nueva">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=Theophilus-Nueva&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Theophilus-Nueva">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theophilus-Nueva&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="./custom-stats.svg" alt="My Custom Stats" />
 </div>
