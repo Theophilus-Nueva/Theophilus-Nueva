@@ -2,9 +2,9 @@
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=FFFFFF&vCenter=true&width=85&lines=I+am+a">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=24292E&vCenter=true&width=85&lines=I+am+a">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=FFFFFF&vCenter=true&width=85&lines=I+am+a" alt="I am a" align="middle" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=FFFFFF&vCenter=true&width=80&lines=I+am+a">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=24292E&vCenter=true&width=80&lines=I+am+a">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999999&color=FFFFFF&vCenter=true&width=80&lines=I+am+a" alt="I am a" align="middle" />
   </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=500&color=FFFFFF&vCenter=true&width=250&lines=Web+Developer.;Student.;Tech+Enthusiast.">
