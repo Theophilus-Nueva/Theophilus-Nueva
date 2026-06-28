@@ -13,7 +13,10 @@
     </picture>
 </h3>
 
-Consider this profile my digital playground—a space where I build, test, and refine software. My focus is on creating functional, full-stack systems using React, FastAPI, and robust database architectures to solve actual problems and streamline operations.
+<div align="justify">
+  Consider this profile my digital playground—a space where I build, test, and refine software. My focus is on creating functional, full-stack systems using React, FastAPI, and robust database architectures to solve actual problems and streamline operations.
+</div>
+
 
 ---
 
@@ -64,5 +67,3 @@ Consider this profile my digital playground—a space where I build, test, and r
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theophilus-Nueva&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-
----
