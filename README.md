@@ -56,13 +56,13 @@
         <b>Student Scheduling System</b><br>
         <a href="https://studentschedulingsystem-frontend-production.up.railway.app/">
           <!-- Make sure to change this image path -->
-          <img src="./Assets/NeuroNook_1.png" width="400" alt="Student Scheduling System">
+          <img src="./Assets/neuronook.gif" width="400" alt="Student Scheduling System">
         </a>
       </td>
       <td align="center">
         <b>NeuroNook</b><br>
         <a href="https://neuronook.appwrite.network/">
-          <img src="./Assets/neuro-nook.gif" width="400" alt="NeuroNook">
+          <img src="./Assets/neuronook.gif" width="400" alt="NeuroNook">
         </a>
       </td>
     </tr>
