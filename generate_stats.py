@@ -75,4 +75,7 @@ for name, info in sorted_langs:
             icon_resp = requests.get(icon_url)
             b64_icon = base64.b64encode(icon_resp.content).decode('utf-8')
             svg_content += f"""
-            <image href="data:image/svg+xml;base64,{b64_icon}" x="25" y="{y_pos - 15
+            <image href="data:image/svg+xml;base64,{b64_icon}" x="25" y="{y_pos - 15}" height="20" width="20"/>
+            """
+        except:
+            svg_content += f'<circle cx="35" cy="{y_pos - 5}" r="6" fill="{
