@@ -50,23 +50,13 @@
 ### Live Demo Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>Student Scheduling System</b><br>
-        <a href="https://studentschedulingsystem-frontend-production.up.railway.app/">
-          <!-- Make sure to change this image path -->
-          <img src="./Assets/neuronook.gif" width="400" alt="Student Scheduling System">
-        </a>
-      </td>
-      <td align="center">
-        <b>NeuroNook</b><br>
-        <a href="https://neuronook.appwrite.network/">
-          <img src="./Assets/neuronook.gif" width="400" alt="NeuroNook">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://studentschedulingsystem-frontend-production.up.railway.app/">
+    <img src="./Assets/schedulingsystem.gif" width="400" alt="Student Scheduling System">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://neuronook.appwrite.network/">
+    <img src="./Assets/neuronook.gif" width="400" alt="NeuroNook">
+  </a>
 </div>
 
 ---
